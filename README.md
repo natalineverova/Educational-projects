@@ -1,1 +1,1 @@
-# Educational-projects
+# Educational-data-projects
